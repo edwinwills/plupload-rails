@@ -7,7 +7,7 @@ This gem integrates [Plupload](http://www.plupload.com/) with the Rails 3.x asse
 Install
 --
 
-Just add it got your Gemfile:
+Just add it to your Gemfile:
 
   gem plupload-rails
 
